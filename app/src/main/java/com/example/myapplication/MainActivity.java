@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
     EditText searchWord;
     ProgressDialog progressDialog;
     String name;
+    String rollNumber;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
