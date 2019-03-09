@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     Button button;
     EditText searchWord;
     ProgressDialog progressDialog;
-
+    String name;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
