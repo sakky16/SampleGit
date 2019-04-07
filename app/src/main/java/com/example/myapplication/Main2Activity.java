@@ -6,6 +6,8 @@ import android.os.Bundle;
 public class Main2Activity extends AppCompatActivity {
 
     String name;
+    String roll_no;
+    String phone_number;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
