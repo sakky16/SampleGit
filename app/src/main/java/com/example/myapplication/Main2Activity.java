@@ -8,6 +8,7 @@ public class Main2Activity extends AppCompatActivity {
     String name;
     String roll_no;
     String phone_number;
+    String schoolname;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
