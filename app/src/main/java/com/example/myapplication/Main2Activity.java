@@ -9,6 +9,7 @@ public class Main2Activity extends AppCompatActivity {
     String roll_no;
     String phone_number;
     String schoolname;
+    String saikat;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
