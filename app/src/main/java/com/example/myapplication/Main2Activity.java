@@ -10,6 +10,7 @@ public class Main2Activity extends AppCompatActivity {
     String phone_number;
     String schoolname;
     String saikat;
+    String saikat34;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
