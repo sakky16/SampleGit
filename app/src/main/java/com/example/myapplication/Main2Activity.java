@@ -11,7 +11,7 @@ public class Main2Activity extends AppCompatActivity {
     String schoolname;
     String saikat;
     String saikat34;
-    String demo_variable;
+   
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
